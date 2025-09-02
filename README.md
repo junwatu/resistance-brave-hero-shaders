@@ -2,4 +2,4 @@
 
 https://brave-hero-resistance.vercel.app
 
-![sc]("Screenshot 2025-09-02 at 08.39.50.png")
+![sc](https://github.com/junwatu/resistance-brave-hero-shaders/blob/main/Screenshot%202025-09-02%20at%2008.39.50.png)
