@@ -21,8 +21,8 @@ const instrumentSerif = Instrument_Serif({
 })
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
+  title: "Brave Hero Resistance Shader",
+  description: "2025 Indonesian Colors",
   generator: "v0.app",
 }
 
